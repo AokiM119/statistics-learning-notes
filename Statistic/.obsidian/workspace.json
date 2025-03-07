@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 1 Introduction of Deep Learning/1.8 Logistic Regression.md",
-                "mode": "preview",
+                "file": "Lecture 1 Introduction of Deep Learning/1.7 Pokemon classification.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.8 Logistic Regression"
+              "title": "1.7 Pokemon classification"
             }
           }
         ],
@@ -241,8 +241,8 @@
   },
   "active": "f749e7e2e95a1c9a",
   "lastOpenFiles": [
-    "Lecture 1 Introduction of Deep Learning/1.6 Predicting Pokémon CP.md",
     "Lecture 1 Introduction of Deep Learning/1.8 Logistic Regression.md",
+    "Lecture 1 Introduction of Deep Learning/1.6 Predicting Pokémon CP.md",
     "Lecture 1 Introduction of Deep Learning/1.7 Pokemon classification.md",
     "Lecture 1 Introduction of Deep Learning/1.1 & 1.2 Outline & Intro.md",
     "Lecture 1 Introduction of Deep Learning/1.3 PyTorch Intro.md",
