@@ -123,18 +123,44 @@
             "id": "9c5900bbd1dda5e2",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Lecture 2 Training Skills/1_LossFunctionSurface.png"
+              },
+              "icon": "lucide-image",
+              "title": "1_LossFunctionSurface"
+            }
+          },
+          {
+            "id": "59cf261af6660d29",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 2 Training Skills/2.4 Adaptive Learning Rate.md",
+                "file": "Lecture 4 Self-Attention/4.1 Self-Attention.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.4 Adaptive Learning Rate"
+              "title": "4.1 Self-Attention"
+            }
+          },
+          {
+            "id": "e8fbe530b1634ee7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.1 Transformer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.1 Transformer"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -281,29 +307,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c5900bbd1dda5e2",
+  "active": "e8fbe530b1634ee7",
   "lastOpenFiles": [
-    "Lecture 2 Training Skills/2.3 Batch & Momentum.md",
-    "Lecture 2 Training Skills/1_LossFunctionSurface.png",
-    "Lecture 2 Training Skills/2.4 Adaptive Learning Rate.md",
-    "Lecture 2 Training Skills/2.1 Training strategy.md",
-    "Lecture 2 Training Skills/2.2 Local Minima & Saddle Point.md",
-    "Pasted image 20250315163914.png",
-    "Lecture 1 Introduction of Deep Learning/1.7 Pokemon classification.md",
-    "Lecture 2 Training Skills",
-    "Lecture 1 Introduction of Deep Learning/1.8 Logistic Regression.md",
-    "Lecture 1 Introduction of Deep Learning/1.6 Predicting Pokémon CP.md",
-    "Lecture 1 Introduction of Deep Learning/1.1 & 1.2 Outline & Intro.md",
+    "Lecture 4 Self-Attention/4.1 Self-Attention.md",
+    "5.1 Transformer.md",
+    "Lecture 5 Transformer",
+    "Lecture 4 Self-Attention/4_3_Self_Attention_For_Graph.png",
+    "Welcome Page.md",
     "Lecture 1 Introduction of Deep Learning/1.3 PyTorch Intro.md",
-    "Lecture 1 Introduction of Deep Learning/1.4 Deep Learning Intro.md",
     "Lecture 1 Introduction of Deep Learning/1.5 Backpropagation.md",
+    "Lecture 1 Introduction of Deep Learning/1.8 Logistic Regression.md",
     "Lecture 1 Introduction of Deep Learning/NN_Shape.png",
-    "Lecture 1 Introduction of Deep Learning/LinearNN_Size.png",
     "Pasted.md",
+    "Lecture 1 Introduction of Deep Learning/1.1 & 1.2 Outline & Intro.md",
+    "Lecture 2 Training Skills/2.2 Local Minima & Saddle Point.md",
+    "Lecture 2 Training Skills/2.1 Training strategy.md",
+    "Lecture 2 Training Skills/1_LossFunctionSurface.png",
+    "Lecture 1 Introduction of Deep Learning/1.7 Pokemon classification.md",
+    "Lecture 1 Introduction of Deep Learning/LinearNN_Size.png",
+    "Lecture 2 Training Skills/2.4 Adaptive Learning Rate.md",
+    "Lecture 2 Training Skills/2.3 Batch & Momentum.md",
+    "Lecture 4 Self-Attention/4_2_RNN_vs_Self_Attention.png",
+    "Lecture 4 Self-Attention/4_1_CNN_vs_Self_Attention.png",
+    "Lecture 4 Self-Attention",
+    "Lecture 3 CNN",
+    "Pasted image 20250315163914.png",
+    "Lecture 2 Training Skills",
+    "Lecture 1 Introduction of Deep Learning/1.6 Predicting Pokémon CP.md",
+    "Lecture 1 Introduction of Deep Learning/1.4 Deep Learning Intro.md",
     "Pasted image 20250218214012.png",
     "Pasted image 20250218213233.png",
     "Pasted image 20250218213449.png",
-    "Welcome Page.md",
     "Lecture 1 Introduction of Deep Learning"
   ]
 }
